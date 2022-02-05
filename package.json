@@ -1,0 +1,24 @@
+{
+  "name": "ISN2018-3-AUTOTEST",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawx777/ISN2018-3-AUTOTEST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dawx777/ISN2018-3-AUTOTEST/issues"
+  },
+  "homepage": "https://github.com/dawx777/ISN2018-3-AUTOTEST#readme",
+  "devDependencies": {
+    "cypress": "^9.1.0",
+    "typescript": "^4.5.2"
+  }
+}
